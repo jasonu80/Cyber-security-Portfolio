@@ -18,8 +18,7 @@
 
 ## Tools utilised
 
-1. Web Browser
-2. Willingness to learn
+None.
 
 ## Hands-on Labs walkthrough
 
