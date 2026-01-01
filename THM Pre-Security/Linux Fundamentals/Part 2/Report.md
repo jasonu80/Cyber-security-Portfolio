@@ -8,7 +8,7 @@
 1. How does this topic relates with Cyber Security Business
 2. Underlying concepts with security relevance
 3. Hands-on Labs with challenges faced
-4. Conclusion/Summary followed with constructive feedback
+4. Conclusion or Summary with Reflection
 
 ## How does this topic relates with Cyber Security in Business
 
@@ -95,14 +95,10 @@ Here are the visual differences with and without using `-l` on `su` command.
 
 ![With -l](Assets/8.png "With -l")
 
-## Conclusion/Summary followed with constructive feedback
+## Conclusion or Summary with Reflection
 
 This room covers detailed explanation and more hands-on labs in Linux, especially in switching users, connecting another device using SSH within the same Operating System, as well as configuring permissions in a file system and switching different users. This is the continued learning journey from the previous part of the Linux Fundamentals part 1, as this covers more in-depth and hands-on labs compared with the previous one.
 
-#### Constructive Feedback
+#### Reflection
 
-I asked genAI with the current scenario on what I am currently doing right now and my status as an international first year student, and here is the answer that it provides:
-
-"The report explains _what and how_, not _**interpreting how it changed the way I think.**_"
-
-According to what I thought, this is a real constructive feedback for me as I did not write on how a concept has changed the way I think. For instance, if I know that SSH is a secure shell, that connects a device to the other device that is encrypted, then the feedback and small improvement for the next report is this: What do I think about SSH or a concept before and after performing the hands-on and why? How does this knowledge applies to the industry?
+I previously learned this room back in January 2025 or December 2024. I revisited and attempted this material again in January 2026 to reinforce my linux skills for industry usages. 
