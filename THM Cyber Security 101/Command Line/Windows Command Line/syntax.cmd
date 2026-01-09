@@ -77,3 +77,11 @@ tasklist /FI "IMAGENAME eq app.exe"
 taskkill /PID 1517
 
 :: This automatically kills the process ID of the task 1517.
+
+
+
+:: Question on TryHackMe: The command shutdown /s can shut down a system. What is the command to restart the system? 
+
+::Hint: shutdown /? | more
+
+:: I got stuck here without the hint, after looking at the hint, I able to answer the question.
