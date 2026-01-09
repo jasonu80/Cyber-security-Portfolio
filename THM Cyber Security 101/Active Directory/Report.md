@@ -21,7 +21,9 @@ After:
 
 ![Advanced Settings](Assets/advanced.png)
 
-Then, I managed to delete the OUs that are not listed on the chart. Although, I deleted the Management OU by accident.
+Then, I managed to delete the OUs that are not listed on the chart. 
+
+I deleted the Management OU by accident, but it does not affect the entire task on this scenario. In real work, this is fatal.
 
 #### Impact:
 
